@@ -6,7 +6,7 @@ The goal of this assignment was to practice **HTML & CSS fundamentals**, layout 
 
 ---
 ### Live Preview
-(Mintlify-Clone)[]
+[Mintlify-Clone](https://iamharshitsharmaa.github.io/Mintlify-Clone-Assignment-ChaiCode/)
 
 ---
 
